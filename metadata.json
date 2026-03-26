@@ -1,0 +1,5 @@
+{
+  "name": "Mon app react vite",
+  "description": "Une application React simple avec Vite et TypeScript affichant 'Voici un modèle'.",
+  "requestFramePermissions": []
+}
